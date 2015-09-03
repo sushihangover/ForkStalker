@@ -1,0 +1,6 @@
+<WorkspaceItem ctype="Workspace">
+  <Items>
+    <Item>ForkStalker.sln</Item>
+    <Item>external/libgit2sharp/LibGit2Sharp.sln</Item>
+  </Items>
+</WorkspaceItem>
